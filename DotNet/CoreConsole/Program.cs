@@ -8,6 +8,8 @@ namespace CoreConsole
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Hello Github!");
+
             Console.Read();
         }
     }
